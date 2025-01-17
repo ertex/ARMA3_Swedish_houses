@@ -22,7 +22,8 @@ class CfgPatches
 					"Land_slask_Generated8_gul" 	,
 					"Land_slask_Generated9" 		,
 					"Land_slask_Generated9_vit" 	,
-					"Land_slask_Generated10"		};
+					"Land_slask_Generated10"		,
+					"Gustavsbergskranen"};
 		weapons[] = {};
 	};
 		
@@ -32,6 +33,24 @@ class CfgPatches
 class CfgVehicles
 {
 	class House;
+
+	class Gustavsbergskranen: House
+		{
+			_generalMacro = "Gustavsbergskranen";
+			
+			displayName = "Kranen"; // Name in editor
+			model = "slask_house\houses\Gustavsbergskranen.p3d";
+			
+			mapSize = 20.27; // Scale of icon in editor
+			author = "ertex";
+			scope = 2;
+			
+			faction = "CIV_F";
+			editorCategory = "EdCat_Structures";
+			editorSubcategory = "EdSubcat_Residential_Village";
+			
+		};
+
 
 	class Land_slask_Generated2: House
 		{

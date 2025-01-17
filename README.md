@@ -4,6 +4,8 @@ Bästa videon om hur mnan gör ett ARMA mod jag hittat https://www.youtube.com/w
 
 Arma 3 toolbox till Blender https://github.com/AlwarrenSidh/ArmAToolbox
 
+NOTERA för att se texturerna i Bulldozer korrekt måste slask_house flyttas ut i root av P:/ för att RVMAT filerna skall hitta texturerna
+
 texturdata som stödjs av ARMA3 https://community.bistudio.com/wiki/TexView_2_Manual
 Rekomenderade att använda är en diffusemap (_CO), normalmap (_NO), specular/roughness (_SM)
     om man vill få det att bli snyggare är en Ambient shadow textur rekomenderad med (_AS)
