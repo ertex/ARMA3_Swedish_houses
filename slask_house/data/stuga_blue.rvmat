@@ -13,7 +13,7 @@ VertexShaderID = "Super";
 
 class Stage1
 {
-	texture = "slask_house\data\stuga_NO.paa";
+	texture = "ARMA3_Swedish_houses\slask_house\data\stuga_NO.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -26,7 +26,7 @@ class Stage1
 
 class Stage2
 {
-	texture = "slask_house\data\stuga_blue_CO.paa";
+	texture = "ARMA3_Swedish_houses\slask_house\data\stuga_blue_CO.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -39,7 +39,7 @@ class Stage2
 
 class Stage3
 {
-	texture = "slask_house\data\stuga_as.paa";
+	texture = "ARMA3_Swedish_houses\slask_house\data\stuga_as.paa";
 	uvSource = "tex";
 	class uvTransform
 	{
@@ -52,7 +52,7 @@ class Stage3
 
 class Stage4
 {
-	texture = "slask_house\data\stuga_SM.paa";
+	texture = "ARMA3_Swedish_houses\slask_house\data\stuga_SM.paa";
 	uvSource = "tex";
 	class uvTransform
 	{

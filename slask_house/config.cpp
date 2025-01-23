@@ -39,7 +39,7 @@ class CfgVehicles
 			_generalMacro = "Gustavsbergskranen";
 			
 			displayName = "Kranen"; // Name in editor
-			model = "slask_house\houses\Gustavsbergskranen.p3d";
+			model = "ARMA3_Swedish_houses\slask_house\houses\Gustavsbergskranen.p3d";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -57,8 +57,8 @@ class CfgVehicles
 			_generalMacro = "Land_slask_Generated2";
 			
 			displayName = "Swedish house 1"; // Name in editor
-			model = "slask_house\houses\generated_house_2.p3d";
-			editorPreview = "slask_house\previews\Land_slask_Generated2.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_2.p3d";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated2.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -74,9 +74,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated3";
 			displayName = "Swedish house 2"; // Name in editor
-			model = "slask_house\houses\generated_house_3.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated3.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_3.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated3.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -93,9 +93,9 @@ class CfgVehicles
 			_generalMacro = "Land_slask_Generated4";
 			
 			displayName = "Swedish house 3"; // Name in editor
-			model = "slask_house\houses\generated_house_4.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated4.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_4.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated4.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -111,9 +111,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated5";
 			displayName = "Swedish house 4"; // Name in editor
-			model = "slask_house\houses\generated_house_5.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated5.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_5.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated5.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -129,9 +129,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated6";
 			displayName = "Swedish house 5"; // Name in editor
-			model = "slask_house\houses\generated_house_6.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated6.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_6.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated6.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -149,9 +149,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated6_gul";
 			displayName = "Swedish house 5 yellow"; // Name in editor
-			model = "slask_house\houses\generated_house_6_gul.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated6_gul.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_6_gul.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated6_gul.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -167,9 +167,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated7";
 			displayName = "Swedish house 6"; // Name in editor
-			model = "slask_house\houses\generated_house_7.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated7.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_7.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated7.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -185,9 +185,9 @@ class CfgVehicles
 			_generalMacro = "Land_slask_Generated7_blue";
 			
 			displayName = "Swedish house 6 blue"; // Name in editor
-			model = "slask_house\houses\generated_house_7_blue.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated7_blue.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_7_blue.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated7_blue.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -203,9 +203,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated8";
 			displayName = "Swedish house 7"; // Name in editor
-			model = "slask_house\houses\generated_house_8.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated8.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_8.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated8.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -221,9 +221,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated8_blue";
 			displayName = "Swedish house 7 blue"; // Name in editor
-			model = "slask_house\houses\generated_house_8_blue.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated8_blue.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_8_blue.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated8_blue.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -239,9 +239,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated8_gul";
 			displayName = "Swedish house 7 yellow"; // Name in editor
-			model = "slask_house\houses\generated_house_8_gul.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated8_gul.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_8_gul.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated8_gul.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -257,9 +257,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated9";
 			displayName = "Swedish house 8 "; // Name in editor
-			model = "slask_house\houses\generated_house_9.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated9.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_9.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated9.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -274,9 +274,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated9_vit";
 			displayName = "Swedish house 8 white"; // Name in editor
-			model = "slask_house\houses\generated_house_9_vit.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			editorPreview = "slask_house\previews\Land_slask_Generated9_vit.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_9_vit.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated9_vit.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
@@ -293,9 +293,9 @@ class CfgVehicles
 		{
 			_generalMacro = "Land_slask_Generated10";
 			displayName = "Swedish house 9"; // Name in editor
-			model = "slask_house\houses\generated_house_10.p3d";
-			icon = "slask_house\icons\Slaskmakten512.paa";
-			//editorPreview = "slask_house\previews\Land_slask_Generated10.jpg";
+			model = "ARMA3_Swedish_houses\slask_house\houses\generated_house_10.p3d";
+			icon = "ARMA3_Swedish_houses\slask_house\icons\Slaskmakten512.paa";
+			//editorPreview = "ARMA3_Swedish_houses\slask_house\previews\Land_slask_Generated10.jpg";
 			
 			mapSize = 20.27; // Scale of icon in editor
 			author = "ertex";
